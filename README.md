@@ -17,7 +17,6 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/firas foued" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas foued" height="30" width="40" /></a>
-
 <a href="https://discord.gg/soula7114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soula7114" height="30" width="40" /></a>
 </p>
 
