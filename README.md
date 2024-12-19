@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foued-firas&show_icons=true&locale=en" alt="foued-firas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foued-firas&" alt="foued-firas" /></p>
