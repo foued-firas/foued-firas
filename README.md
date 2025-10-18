@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **fyrasfoued@gmail.com**
+- 📫 How to reach me **firas.foued@esprit.tn**
 
 - ⚡ Fun fact **I'm funny**
 
