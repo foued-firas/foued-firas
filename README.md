@@ -35,7 +35,8 @@ class FirasFoued:
         self.location    = "Tunisia 🇹🇳"
         self.education   = "Engineering Degree in Data Science @ ESPRIT"
         self.languages   = ["Python", "Dart", "JavaScript", "SQL", "R"]
-        self.currently   = "Building QosBuddy — multi-agent AI network monitoring system"
+        self.currently   = ["QosBuddy — multi-agent AI network QoS system",
+                            "Network Security — end-to-end MLOps pipeline on AWS"]
         self.contact     = "firas.foued@esprit.tn"
 
     def expertise(self):
@@ -75,6 +76,29 @@ class FirasFoued:
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🔐 Network Security — MLOps Pipeline</h3>
+      <p align="center">End-to-end MLOps system for network intrusion detection: ETL pipeline, data validation &amp; drift detection, automated model training, and CI/CD deployment on AWS EC2</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <details>
+        <summary><b>🔍 Pipeline Details</b></summary>
+        <br/>
+        <ul>
+          <li>📥 <b>Data Ingestion</b> — MongoDB Atlas → Feature Store → train/test split</li>
+          <li>✅ <b>Data Validation</b> — Schema check, data drift detection, column validation</li>
+          <li>🔄 <b>Data Transformation</b> — KNN Imputer, SMOTE resampling, preprocessing.pkl</li>
+          <li>🧠 <b>Model Trainer</b> — Model Factory with best model selection &amp; accuracy threshold</li>
+          <li>☁️ <b>Deployment</b> — Docker → AWS ECR → AWS EC2 via GitHub Actions CI/CD</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%">
       <h3 align="center">🗣️ Yassmina — AI Voice Assistant</h3>
       <p align="center">Cross-platform AI voice assistant with LLM-powered conversations and DALL-E image generation</p>
       <p align="center">
@@ -83,15 +107,7 @@ class FirasFoued:
         <img src="https://img.shields.io/badge/DALL--E-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📊 Annual Evaluation App</h3>
-      <p align="center">Full-stack HR platform with drag-and-drop form builder for company-wide performance reviews</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-      </p>
-    </td>
+    
   </tr>
 </table>
 
