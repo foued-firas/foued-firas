@@ -107,7 +107,7 @@ class FirasFoued:
         <img src="https://img.shields.io/badge/DALL--E-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
-    
+   
   </tr>
 </table>
 
@@ -152,6 +152,8 @@ class FirasFoued:
 | 🏆 Microsoft Certified: Azure AI Fundamentals | Microsoft | ✅ Verified |
 | 🏆 Microsoft Certified: Azure Data Fundamentals | Microsoft | ✅ Verified |
 | 🏆 Building LLM Apps with Prompt Engineering | NVIDIA | ✅ Verified |
+| 🏆 Applications of AI for Anomaly Detection | NVIDIA | ✅ Verified |
+| 🏆 Fundamentals of Deep Learning | NVIDIA | ✅ Verified |
 
 </div>
 
@@ -160,8 +162,8 @@ class FirasFoued:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foued-firas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foued-firas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=foued-firas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=foued-firas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
