@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/firas-foued">
+  <a href="https://www.linkedin.com/in/firas-foued-1974ab238/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:firas.foued@esprit.tn">
