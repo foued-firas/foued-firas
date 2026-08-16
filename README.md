@@ -35,10 +35,8 @@ class FirasFoued:
         self.location    = "Tunisia 🇹🇳"
         self.education   = "Engineering Degree in Data Science @ ESPRIT"
         self.languages   = ["Python", "Dart", "JavaScript", "SQL", "R"]
-        self.currently   = [
-            "QosBuddy — multi-agent AI network QoS system",
-            "Network Security — end-to-end MLOps pipeline on AWS"
-        ]
+        self.currently   = ["QosBuddy — multi-agent AI network QoS system",
+                            "Network Security — end-to-end MLOps pipeline on AWS"]
         self.contact     = "firas.foued@esprit.tn"
 
     def expertise(self):
@@ -59,22 +57,16 @@ class FirasFoued:
   <tr>
     <td width="50%">
       <h3 align="center">🤖 QosBuddy</h3>
-      <p align="center">
-        Multi-agent AI system for real-time network quality monitoring,
-        SLA risk prediction & automated traffic rerouting
-      </p>
+      <p align="center">Multi-agent AI system for real-time network quality monitoring, SLA risk prediction & automated traffic rerouting</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Multi--Agent-58a6ff?style=flat"/>
       </p>
     </td>
-
     <td width="50%">
       <h3 align="center">🎯 Drone Detection System</h3>
-      <p align="center">
-        Computer vision system for LSS drone detection at Military Research Center using deep learning
-      </p>
+      <p align="center">Computer vision system for LSS drone detection at Military Research Center using deep learning</p>
       <p align="center">
         <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logo=opencv&logoColor=black"/>
         <img src="https://img.shields.io/badge/CVAT-EE4C2C?style=flat"/>
@@ -82,15 +74,10 @@ class FirasFoued:
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <h3 align="center">🔐 Network Security — MLOps Pipeline</h3>
-      <p align="center">
-        End-to-end MLOps system for network intrusion detection:
-        ETL pipeline, data validation &amp; drift detection,
-        automated model training, and CI/CD deployment on AWS EC2
-      </p>
+      <p align="center">End-to-end MLOps system for network intrusion detection: ETL pipeline, data validation &amp; drift detection, automated model training, and CI/CD deployment on AWS EC2</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
@@ -99,7 +86,6 @@ class FirasFoued:
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
       </p>
-
       <details>
         <summary><b>🔍 Pipeline Details</b></summary>
         <br/>
@@ -112,18 +98,16 @@ class FirasFoued:
         </ul>
       </details>
     </td>
-
     <td width="50%">
       <h3 align="center">🗣️ Yassmina — AI Voice Assistant</h3>
-      <p align="center">
-        Cross-platform AI voice assistant with LLM-powered conversations and DALL-E image generation
-      </p>
+      <p align="center">Cross-platform AI voice assistant with LLM-powered conversations and DALL-E image generation</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/ChatGPT_API-412991?style=flat&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/DALL--E-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
+   
   </tr>
 </table>
 
@@ -131,7 +115,7 @@ class FirasFoued:
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / ML / Data Science
+**AI / ML / Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -140,7 +124,7 @@ class FirasFoued:
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📱 Mobile & Web
+**Mobile & Web**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -149,7 +133,7 @@ class FirasFoued:
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### 🗄️ Databases & DevOps
+**Databases & DevOps**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -179,30 +163,16 @@ class FirasFoued:
 
 
 
-<br/>
-
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=foued-firas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=foued-firas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=foued-firas&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=foued-firas&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
 <div align="center">
-  <img
-    alt="Footer"
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"
-  />
+  <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
 </div>
